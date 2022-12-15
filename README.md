@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou estudanto Ciências Exatas - UFJF
-- 🌱 Atualmente aprendendo C++ e Python.
+- 🌱 Atualmente aprendendo C++, Python e JS.
 - 📫 franciscograveli@hotmail.com
 <!--- ⚡ Fun fact: ...-->
 
