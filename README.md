@@ -1,10 +1,9 @@
 ### Olá, meu nome é Francisco!!👋
 
-
-- 🌱 Atualmente Trabalhando com PHP, JS e SQL.
-- 🔭 Estou estudanto Ciências Exatas
-- 🐍 As vezes me arrisco em Python
-- 📫 Você pode entrar em contato comigo pelo <a href="mailto:franciscograveli@hotmail.com">e-mail</a>
+- 🌱 Atualmente Trabalhando com PHP, JS e SQL, construindo soluções inovadoras e funcionais.
+- 🔭 Estou estudando Ciências Exatas para aprimorar ainda mais minhas habilidades técnicas.
+- 🐍 De vez em quando, me arrisco em Python, explorando sua versatilidade e aplicabilidade em diferentes contextos.
+- 📫 Você pode entrar em contato comigo pelo [e-mail](mailto:franciscograveli@hotmail.com).
 
 <!--- ⚡ Fun fact: ...-->
 
