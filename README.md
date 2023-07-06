@@ -1,5 +1,8 @@
-### Olá, meu nome é Francisco!!👋
+## Olá, meu nome é Francisco!!👋
 
+
+### 🚀 Sobre mim
+- 👩‍💻 Trabalho atualmente na [@MetaTecnologia](https://github.com/MetaTecnologiaSistemas).
 - 🌱 Atualmente Trabalhando com PHP, JS e SQL, construindo soluções inovadoras e funcionais.
 - 🔭 Estou estudando Ciências Exatas para aprimorar ainda mais minhas habilidades técnicas.
 - 🐍 De vez em quando, me arrisco em Python, explorando sua versatilidade e aplicabilidade em diferentes contextos.
