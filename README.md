@@ -1,6 +1,4 @@
-## 👋 Olá, meu nome é Francisco!!
-
-💻 Atualmente trabalho como **Desenvolvedor de Software na Dimensa**, atuando no setor de Core Banking.  
+## 👋 Olá, meu nome é Francisco!! 
 
 🏠 Trabalho focando em **soluções escaláveis e de alta performance** para empresas financeiras.  
 
