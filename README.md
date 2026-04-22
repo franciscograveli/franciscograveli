@@ -8,7 +8,7 @@ Hoje trabalho **100% remoto**, construindo APIs robustas, dashboards e arquitetu
 
 ## 🛠️ Stack principal
 
-<div align="center">
+<div align="center" class="d-flex flex-justify-center">
   <img alt="PHP"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" width="40" title="PHP">
   <img alt="Laravel"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" width="40" title="Laravel">
   <img alt="Vue"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" width="40" title="Vue.js">
