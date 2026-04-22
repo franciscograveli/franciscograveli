@@ -8,13 +8,15 @@ Hoje trabalho **100% remoto**, construindo APIs robustas, dashboards e arquitetu
 
 ## 🛠️ Stack principal
 
-<div align="center" class="d-flex flex-justify-center">
-  <img alt="PHP"        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" width="40" title="PHP">
-  <img alt="Laravel"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40" width="40" title="Laravel">
-  <img alt="Vue"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40" width="40" title="Vue.js">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" title="JavaScript">
-  <img alt="MySQL"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" title="MySQL">
-  <img alt="Git"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" title="Git">
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 </div>
 
 ---
