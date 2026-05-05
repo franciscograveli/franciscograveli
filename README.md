@@ -28,10 +28,8 @@ Hoje trabalho **100% remoto**, construindo APIs robustas, dashboards e arquitetu
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=franciscograveli&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="180" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscograveli&layout=compact&langs_count=7&theme=github_dark" height="180" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=franciscograveli&theme=github-dark&hide_border=true" height="180" />
 </div>
 
 ---
@@ -45,6 +43,7 @@ Hoje trabalho **100% remoto**, construindo APIs robustas, dashboards e arquitetu
   <a href="mailto:franciscograveli@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  
 </div>
 
 <br/>
